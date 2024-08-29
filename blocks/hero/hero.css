@@ -16,16 +16,18 @@ main .hero-container {
 
 .hero h1 {
   max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
-  color: white;
+  margin-left: 10vw;
+  margin-right: 45vw;
+  color: red;
+  /* width: 50%; */
 }
 
 .hero p {
   max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
-  color: white;
+  margin-left: 10vw;
+  margin-right: 45vw;
+  color: red;
+  /* width: 50%; */
 }
 
 .hero picture {
