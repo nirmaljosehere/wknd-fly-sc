@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/wknd-fly/:/",
-    "/content/wknd-fly/configuration:/.helix/config.json"
+    "/content/wknd-fly-sc/:/",
+    "/content/wknd-fly-sc/configuration:/.helix/config.json"
   ]
 }
